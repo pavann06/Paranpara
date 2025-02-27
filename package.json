@@ -2,6 +2,8 @@
   "name": "resonance-next",
   "version": "1.4.0",
   "private": true,
+
+  "homepage": "https://pavann06.github.io/Paranpara",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
